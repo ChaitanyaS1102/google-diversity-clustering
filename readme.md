@@ -5,14 +5,17 @@ For a recent data visualisation project, I applied K-Means clustering and PCA to
 Here's what stood out:
 
 📌 Construction is a demographic outlier — 93.7% white representation, making it the most ethnically homogeneous sector in the dataset. PCA confirmed it sits completely apart from every other industry.
-<img width="1189" height="690" alt="image" src="https://github.com/user-attachments/assets/9c4189c6-2f49-4008-9896-a782f7f04a5b" />
 
 
 📌 The Elbow Method pointed clearly to k=4 as the optimal cluster count for gender-based segmentation — a clean inflection that held across both gender and ethnicity clustering.
 
+
+
 📌 High ethnic diversity isn't just a small-sector story. Sectors like Professional & Business Services and Leisure & Hospitality show strong demographic balance even at scale — meaning size alone doesn't predict homogeneity.
 
+
 📌 Education & Health Services clustered separately from most other industries — consistent internal structure across both gender and ethnicity metrics.
+
 
 🛠 Tech stack: Python · scikit-learn · pandas · seaborn · PCA · Shannon entropy
 
