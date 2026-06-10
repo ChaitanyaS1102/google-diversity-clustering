@@ -118,5 +118,5 @@ This project analyzes workforce diversity data to uncover structural demographic
 
 ## Author
 
-Fariha | MS Data Science, Seattle University  
-[LinkedIn](#) · [GitHub](#)
+Chaitanya | MS Business Analytics, Seattle University  
+
